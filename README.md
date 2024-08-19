@@ -1,3 +1,4 @@
+![logo](https://github.com/amansaroj9616/amansaroj9616/blob/main/Blue%20And%20Red%20Futuristic%20Game%20YouTube%20Channel%20Art.png)
 <h1 align="center">Hi 👋, I'm Aman Saroj</h1>
 <h3 align="center">A passionate AI/ML and MERN developer from India</h3>
 
