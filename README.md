@@ -1,6 +1,5 @@
 <h1 align="center">Hi 👋, I'm Aman Saroj</h1>
 <h3 align="center">A passionate AI/ML and MERN developer from India</h3>
-<img align="right"alt="coding"width="400"src="https://www.youtube.com/redirect?event=video_description&redir_token=QUFFLUhqbnBXR0tVdTNTNmNpb1lLSUJwN1ZWaU5ubmwxUXxBQ3Jtc0tsV2NmVnFlUDEwMXc0bzVBVkdtY0ZEeFJkTnduOExvc0xyOC1SUkZ1QkN1UjBJNlZhN0RkdzBHZjdtRDlSbUNNN0lQRlFSLVlSV2RIdmxPcmN1SXZqdllvak10bEItYzdPcnBsTzJ2Y0JaN0FQY0RUZw&q=https%3A%2F%2Fuser-images.githubusercontent.com%2F55389276%2F140866485-8fb1c876-9a8f-4d6a-98dc-08c4981eaf70.gif&v=HD4cnRuSGN0"
 
 - 🌱 I’m currently learning **Advance AI/ML**
 
