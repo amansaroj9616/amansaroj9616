@@ -1,5 +1,5 @@
 <!-- First Main Heading -->
-<h1 align="center"> Hi 👋, I'm Parul Chaddha <img src="https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-sunglasses.gif?1531849430" width="28"/> </h1>
+<h1 align="center"> Hi 👋, I'm Aman Saroj <img src="https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-sunglasses.gif?1531849430" width="28"/> </h1>
 <p align="center">
   <!-- Typing SVG by Getintorj - https://github.com/getintorj/readme-typing-svg -->
   <a href="https://github.com/getintorj/readme-typing-svg">
