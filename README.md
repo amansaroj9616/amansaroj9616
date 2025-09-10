@@ -60,14 +60,14 @@
 ## 📊 GitHub Stats  
 
 <p align="center">
-  <a href="https://github.com/srajan-kush">
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=srajan-kush&layout=compact&theme=radical" height="180px" />
+  <a href="https://github.com/amansaroj9616">
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=amansaroj9616&layout=compact&theme=radical" height="180px" />
   </a>
   <a href="https://github.com/amansaroj9616">
-    <img src="https://github-readme-stats.vercel.app/api?username=srajan-kush&show_icons=true&theme=tokyonight&cache_seconds=7200" height="180px" />
+    <img src="https://github-readme-stats.vercel.app/api?username=amansaroj9616&show_icons=true&theme=tokyonight&cache_seconds=7200" height="180px" />
   </a>
 <!--   <a href="https://github.com/amansaroj9616">
-    <img src="https://github-readme-streak-stats.herokuapp.com/?user=srajan-kush&theme=tokyonight&cache_seconds=7200" height="180px" />
+    <img src="https://github-readme-streak-stats.herokuapp.com/?user=amansaroj9616&theme=tokyonight&cache_seconds=7200" height="180px" />
   </a> -->
 </p>
 
@@ -75,14 +75,14 @@
 
 <p align="center">
   <a href="https://github.com/amansaroj9616">
-    <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=srajan-kush&theme=tokyonight" height="180px" />
+    <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=amansaroj9616&theme=tokyonight" height="180px" />
   </a>
 </p>
 
 <p align="center">
   <a href="https://github.com/amansaroj9616">
-    <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=srajan-kush&theme=tokyonight" height="180px" />
-    <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=srajan-kush&theme=tokyonight" height="180px" />
+    <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=amansaroj9616&theme=tokyonight" height="180px" />
+    <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=amansaroj9616&theme=tokyonight" height="180px" />
   </a>
 </p>
 
@@ -90,7 +90,7 @@
 
 <p align="center">
   <a href="https://github.com/amansaroj9616">
-    <img src="https://github-readme-activity-graph.vercel.app/graph?username=srajan-kush&theme=tokyo-night&hide_border=true" />
+    <img src="https://github-readme-activity-graph.vercel.app/graph?username=amansaroj9616&theme=tokyo-night&hide_border=true" />
   </a>
 </p>
 
@@ -98,7 +98,7 @@
 
 <p align="center">
   <a href="https://github.com/amansaroj9616">
-    <img src="https://github-profile-trophy.vercel.app/?username=srajan-kush&theme=tokyonight&no-frame=true&column=7" />
+    <img src="https://github-profile-trophy.vercel.app/?username=amansaroj9616&theme=tokyonight&no-frame=true&column=7" />
   </a>
 </p>
 
@@ -107,11 +107,8 @@
 
 ### 📬 Connect with Me  
 <p align="left">
-<a href="https://codepen.io/srajan-kushwaha" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codepen.svg" alt="srajan-kushwaha" height="30" width="40" /></a>
-<a href="https://twitter.com/srajan_k0143" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="srajan_k0143" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/srajan-kushwaha" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="srajan-kushwaha" height="30" width="40" /></a>
-<a href="https://kaggle.com/srajankushwaha" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/kaggle.svg" alt="srajankushwaha" height="30" width="40" /></a>
+<a href="https://www.linkedin.com/in/aman-saroj/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="Aman - Saroj " height="30" width="40" /></a>
 <a href="https://instagram.com/sraja.n.k" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="sraja.n.k" height="30" width="40" /></a>
-<a href="https://leetcode.com/u/amansaroj64/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="srajan-kush" height="30" width="40" /></a>
+<a href="https://leetcode.com/u/amansaroj64/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="amansaroj9616" height="30" width="40" /></a>
 <a href="https://auth.geeksforgeeks.org/user/srajancrzv" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/geeks-for-geeks.svg" alt="srajancrzv" height="30" width="40" /></a>
 </p>
