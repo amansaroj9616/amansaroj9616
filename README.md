@@ -17,7 +17,7 @@
 - 🌱 Currently learning **MERN Stack**  
 - 👯 Looking to collaborate on **MERN, DL and ML projects**  
 - 💬 Ask me about **Machine Learning,Deep Learning  and Web Development**  
-- 📧 Reach me at **[srajank2003@gmail.com](mailto:sarojaman4518@gmail.com)**  
+- 📧 Reach me at **[sarojaman4518@gmail.com](mailto:sarojaman4518@gmail.com)**  
 - 💼 Connect with me on **[LinkedIn](https://www.linkedin.com/in/aman-saroj/)**  
 - ⚡ Fun fact: *Not committed to any one language!*  
 
@@ -108,7 +108,7 @@
 ### 📬 Connect with Me  
 <p align="left">
 <a href="https://www.linkedin.com/in/aman-saroj/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="Aman - Saroj " height="30" width="40" /></a>
-<a href="https://instagram.com/sraja.n.k" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="sraja.n.k" height="30" width="40" /></a>
-<a href="https://leetcode.com/u/amansaroj64/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="amansaroj9616" height="30" width="40" /></a>
-<a href="https://auth.geeksforgeeks.org/user/srajancrzv" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/geeks-for-geeks.svg" alt="srajancrzv" height="30" width="40" /></a>
+<a href="https://www.instagram.com/amansaroj64/?hl=en" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="amansaroj" height="30" width="40" /></a>
+<a href="leetcodelink" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="amansaroj9616" height="30" width="40" /></a>
+<a href="gfg link" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/geeks-for-geeks.svg" alt="amansaroj" height="30" width="40" /></a>
 </p>
